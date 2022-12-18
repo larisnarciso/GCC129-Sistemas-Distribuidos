@@ -1,10 +1,6 @@
 # Sockets - CHAT
 O objetivo deste trabalho prático é implementar uma aplicação de mensagem instantânea (chat). A aplicação é implementada como um sistema cliente-servidor utilizando API de sockets, ela permite comunicação assíncrona por mensagens de texto. 
 
-## Alunos
-- [Ana Beatriz Torres](https://github.com/anabrtorres)
-- [Larissa Narciso](https://github.com/larisnarciso)
----
 ## Tecnologia
 <table border-collapse=collapse>
   <tr>
