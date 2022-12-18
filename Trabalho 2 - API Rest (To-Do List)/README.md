@@ -1,12 +1,5 @@
 # Serviço Web REST - API To Do List
-Trabalho realizado para a disciplina de Sistemas Distribuidos da Universidade Federal de Lavras (UFLA).
-
 O objetivo deste trabalho é implementar um sistema de gerenciamento de tarefas (to do list).  
-
-## Alunos
-- [Ana Beatriz Torres](https://github.com/anabrtorres)
-- [Larissa Narciso](https://github.com/larisnarciso)
----
 ## Biblioteca/Framework
 <table border-collapse=collapse>
   <tr>
