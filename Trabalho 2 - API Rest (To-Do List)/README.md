@@ -1,12 +1,8 @@
 # Serviço Web REST - API To Do List
 O objetivo deste trabalho é implementar um sistema de gerenciamento de tarefas (to do list).  
-## Biblioteca/Framework
-<table border-collapse=collapse>
-  <tr>
-    <td><img alt="Javascript/Node.js Express" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"/></td>
-    <td><a href="https://expressjs.com/" target="_blank">Javascript/Node.js Express</a></td>
-  </tr>
-</table>
+## Biblioteca/Framework/Tecnologias
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Requisitos
 
