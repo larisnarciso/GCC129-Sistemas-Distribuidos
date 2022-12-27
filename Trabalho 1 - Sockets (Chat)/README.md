@@ -2,12 +2,7 @@
 O objetivo deste trabalho prático é implementar uma aplicação de mensagem instantânea (chat). A aplicação é implementada como um sistema cliente-servidor utilizando API de sockets, ela permite comunicação assíncrona por mensagens de texto. 
 
 ## Tecnologia
-<table border-collapse=collapse>
-  <tr>
-    <td><img alt="Java" height="30" widht="40" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/java.svg" /></td>
-    <td><a href="https://docs.oracle.com/en/java/" target="_blank">Java</a></td>
-  </tr>
-</table>
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Execução 
 
