@@ -1,4 +1,4 @@
-# GCC129 - Sistemas Distribuidos
+# 📚 Sistemas Distribuidos
 <img align="right" width="200" src="sd.png">
 Trabalhos práticos realizados para a disciplina de Sistemas Distribuidos da Universidade Federal de Lavras (UFLA).
 
